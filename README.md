@@ -13,10 +13,12 @@ This project uses Django Rest Framework
 
     pip install djangorestframework
 
----install Numpy and Pandas with following commands:
+---install Numpy with following command:
 
     pip install numpy
-    
+
+---install Pandas with following command:
+
     pip install pandas
 
 ---open the project assignment
