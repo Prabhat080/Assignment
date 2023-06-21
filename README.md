@@ -10,6 +10,7 @@ This project uses Django Rest Framework
 
 install Numpy and Pandas with following commands:
     pip install numpy
+    
     pip install pandas
 
 ---open the project assignment
