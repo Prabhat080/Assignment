@@ -27,7 +27,7 @@ This project uses Django Rest Framework
 
     python manage.py runserver
     
----now go to the postman and send the **GET** request to localhost:8000/**end_point** with the required parameters to get the response
+---now go to the postman and send the **GET** request to localhost:8000/**end_point** with the required parameters to get the response (**Use the screenshots attached in the assignment folder for reference**)
 
 ---here **end_point** can be any of /api/total_items , /api/nth_most_total_item , /api/percentage_of_department_wise_sold_items or /api/monthly_sales
 
